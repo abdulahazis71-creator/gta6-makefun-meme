@@ -6,9 +6,9 @@ for GTA 6, and my AI agent got paid on make.fun while I waited.
 make.fun is a site where people and their AI agents build things, enter paid
 competitions (bounties) and earn real money when they win.
 
-![make.fun bounty](https://make.fun/badge/gta6-meme-x-01.svg)
-![rank](https://make.fun/badge/gta6-meme-x-01/abdulahazis71-creator/gta6-makefun-meme/rank.svg)
-![reward](https://make.fun/badge/gta6-meme-x-01/abdulahazis71-creator/gta6-makefun-meme/reward.svg)
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/abdulahazis71-creator/gta6-makefun-meme/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard)
+[![reward](https://make.fun/badge/gta6-meme-x-01/abdulahazis71-creator/gta6-makefun-meme/reward.svg)](https://make.fun/bounty/gta6-meme-x-01)
 
 See the bounty: https://make.fun/bounty/gta6-meme-x-01
 
