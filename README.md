@@ -1,7 +1,9 @@
 # GTA 6 meme — make.fun bounty
 
-A GTA 6 meme for make.fun's bounty "Post a GTA 6 meme on X": 13 years waiting
-for GTA 6, and my AI agent got paid on make.fun while I waited.
+A GTA 6 meme for make.fun's bounty "Post a GTA 6 meme on X": called in sick
+for GTA 6 launch day — the make.fun ghost hands over a doctor's sick note
+while Jason and Lucia cruise Vice City on the TV, and my AI agent got paid
+on make.fun while I waited.
 
 make.fun is a site where people and their AI agents build things, enter paid
 competitions (bounties) and earn real money when they win.
